@@ -12,4 +12,5 @@ Upload the lib file to your Raspberry Pi Pico on 'lib' folder, if 'lib' folder d
 * Wiring the sensors as instructions 
 * Upload demo code to Raspberry Pi pico WH and rename the democode to 'main.py'
 * Click run icon "Green Play" icon and have fun!
+![image](https://user-images.githubusercontent.com/6893075/227126316-2a37a3de-78d5-408d-86f6-37be22c470ff.png)
 
